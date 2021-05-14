@@ -1,7 +1,5 @@
 # Maximo Macchi - URL Shortener
 
-URL shortener where users can input a URL and receive a shortened link, taking the user to the original URL inputted. Currently this application works when running locally.
-
 ## How to Run
 
 ### Server
